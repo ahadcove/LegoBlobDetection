@@ -1,4 +1,4 @@
-## Check out the tutorial on [Youtube]: https://youtu.be/1GzU-w9HHKs
+## Check out the tutorial on [Youtube](https://youtu.be/1GzU-w9HHKs)
 
 ### Summary
 Let's walk through counting Lego using OpenCV's Blob Detection
